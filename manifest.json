@@ -1,0 +1,16 @@
+{
+    "name": "VulcaSuperPack",
+    "version_number": "",
+    "website_url": "https://github.com/neahyu-friends/VulcaSuperPack",
+    "description": "Take my (super) modpack",
+    "dependencies": [
+		"sunnobunno-BonkHitSFX-1.0.5",
+		"sunnobunno-LandMineFartReverb-1.0.3",
+		"EladNLG-EladsHUD-1.2.1",
+		"Owen3H-IntroTweaks-1.4.2",
+		"Sligili-HDLethalCompany-1.5.6",
+		"rooni-BetterTerminal-0.1.1",
+		"linkoid-DissonanceLagFix-1.0.0",
+		"neahyu_friends-VulcaPack-1.0.10"
+    ]
+}
