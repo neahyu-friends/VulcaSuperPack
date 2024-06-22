@@ -4,12 +4,24 @@
     "website_url": "https://github.com/neahyu-friends/VulcaSuperPack",
     "description": "Take my (super) modpack",
     "dependencies": [
-		"sunnobunno-BonkHitSFX-1.0.5",
-		"sunnobunno-LandMineFartReverb-1.0.3",
+		"neahyu_friends-VulcaPack-2.1.0",
+
 		"EladNLG-EladsHUD-1.2.1",
 		"Owen3H-IntroTweaks-1.5.0",
 		"Sligili-HDLethalCompany-1.5.6",
 		"rooni-BetterTerminal-0.1.1",
-		"linkoid-DissonanceLagFix-1.0.0"
+		"mrov-TerminalFormatter-0.2.13",
+
+		"DiFFoZ-BepInEx_Faster_Load_AssetBundles_Patcher-0.6.4",
+		"Solar32-PerformanceEnhancer-1.3.6",
+
+		"sunnobunno-BonkHitSFX-1.0.5",
+		"sunnobunno-LandMineFartReverb-1.0.3",
+
+		"TestAccount666-ShipWindows-1.3.6",
+		"sfDesat-Celestial_Tint-1.5.1",
+		"AnythingGoesGit-MoreDeathNotes-1.4.0",
+		"Woecust-Immersive_Visor-0.5.2",
+		"TwinDimensionalProductions-CoilHeadStare-1.0.9"
     ]
 }
